@@ -1,0 +1,71 @@
+    1  history
+    2  ssh ec2-user@linux.itcareerhub.de
+    3  pwd
+    4  git status
+    5  git clone git@github.com:Alexsonya/git-branch.git
+    6  ls
+    7  cd git-branch
+    8  git branch
+    9  git branch gitignore
+   10  git status
+   11  git checkout gitignore
+   12  git branch -a
+   13  git checkout master
+   14  git checkout main
+   15  touch .gitignore
+   16  nano .gitignore
+   17  git commit -m "made .gitignore"
+   18  git add .
+   19  git commit -m "made .gitignore"
+   20  git push
+   21  git branch
+   22  git branch gitignore
+   23  git checkout
+   24  git checkout gitignore
+   25  nano .gitignore
+   26  git add .
+   27  git commit -m "edit .gitignore"
+   28  git push
+   29  git push --set-upstream origin gitignore
+   30  ssh ec2-user@linux.itcareerhub.de
+   31  git clone git@github.com:Alexsonya/300625.git
+   32  cd C:\Users\lampa\300625
+   33  cd ..
+   34  ls
+   35  cd ..
+   36  cd ~
+   37  ls -la
+   38  cd
+   39  ls -a
+   40  cd git-branch/
+   41  ls
+   42  cd ..
+   43  git clone git@github.com:Alexsonya/300625.git
+   44  cd 300625
+   45  ls
+   46  ls -a
+   47  nano .giignore
+   48  nano .gitignore
+   49  git branch feature
+   50  git checkout feature
+   51  nano .gitignore
+   52  nano README.md
+   53  git add .
+   54  git commit
+   55  git commit -m "added some words"
+   56  git push
+   57  git push --set-upstream origin feature
+   58  git commet --amend
+   59  git commit --amend
+   60  git status
+   61  git bush
+   62  git push
+   63  git commit --amend 226598f197878cb3f1909501e5e1808091256aee
+   64  git commit --amend 226598f
+   65  git commit --amend -m "ammend"
+   66  git push
+   67  git push origin feature
+   68  git push -f
+   69  git checkout main
+   70  git merge feature
+   71  history>history.txt
